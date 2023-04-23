@@ -10,7 +10,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaOliveiraC&layout=compact&hide_border=true&title_color=42A7FF&text_color=418EE0&bg_color=0d1117" />
 </div>
  
-###  Technologies and Tools
+### 📌 Technologies and Tools
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Melissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Melissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,7 +22,7 @@
  </div>
  
  
-###  I Want to Learn
+### 📝 I Want to Learn
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Melissa-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
@@ -34,7 +34,7 @@
  </div>
          
 #
-### More about me
+### 📂 More about me
 
 - 🎓 I'm a Computer Science student at UENP - Universidade Estadual do Norte do Paraná 
 - 🔖 I’m currently learning Front-End development
@@ -42,9 +42,8 @@
 
 ### 📫 How to Reach Me
 
-<div align="left"> 
-<a href = 'mailto:melissaoliveirac2@gmail.com'> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/melissa-oliveira-604141235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MelissaOliveiraC)](https://github.com/MelissaOliveiraC)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melissa-oliveira-604141235/)](https://www.linkedin.com/in/melissa-oliveira-604141235/)
+
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=255180&height=120&section=footer"/>
