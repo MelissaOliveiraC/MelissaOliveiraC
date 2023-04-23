@@ -10,7 +10,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaOliveiraC&layout=compact&hide_border=true&title_color=42A7FF&text_color=418EE0&bg_color=0d1117" />
 </div>
  
-## Technologies and Tools I Use
+###  Technologies and Tools
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Melissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Melissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,7 +22,7 @@
  </div>
  
  
-## Technologies and Tools I Want to Learn
+###  I Want to Learn
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Melissa-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
@@ -30,16 +30,15 @@
   <img align="center" alt="Melissa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
   <img align="center" alt="Melissa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Melissa-Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-  <img align="center" alt="Melissa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Melissa-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />       
  </div>
- 
-
-          
+         
 #
-- 🎓 I'm a Computer Science student
+### More about me
+
+- 🎓 I'm a Computer Science student at UENP - Universidade Estadual do Norte do Paraná 
 - 🔖 I’m currently learning Front-End development
-- 🎮  In my free time I enjoy playing video games, listening to music, reading and playing guitar.
+- 🎮 In my free time I enjoy playing video games, listening to music, reading and playing guitar.
 
 ### 📫 How to Reach Me
 
