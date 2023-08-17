@@ -20,9 +20,10 @@
 #
 ### 📂 More about me
 
-- 🎓 I'm a Computer Science student at UENP - Universidade Estadual do Norte do Paraná 
-- 🔖 I’m currently learning Front-End development
+- 🎓 I'm a Computer Science student at UENP - Universidade Estadual do Norte do Paraná.
+- 🔖 I’m currently learning Front-End development.
 - 🎮 In my free time I enjoy playing video games, listening to music, reading and playing guitar.
+- 🏠 I'm from Brazil.
 
 ### 📫 How to Reach Me
 
