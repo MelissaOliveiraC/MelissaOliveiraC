@@ -1,9 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=255180&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42A7FF&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+MELISSA+OLIVEIRA!;I'M+20+YEARS+OLD;I'M+FROM+BRAZIL;I'M+A+COMPUTER+SCIENCE+STUDENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
-
-
-
+# 👋 Hi there! I'm Melissa Oliveira!
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MelissaOliveiraC&show_icons=true&count_private=true&hide_border=true&title_color=42A7FF&icon_color=87B5E6&text_color=418EE0&bg_color=0d1117" alt="Melissa Oliveira github stats" /> 
@@ -44,6 +39,3 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MelissaOliveiraC)](https://github.com/MelissaOliveiraC)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melissa-oliveira-604141235/)](https://www.linkedin.com/in/melissa-oliveira-604141235/)
-
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=255180&height=120&section=footer"/>
