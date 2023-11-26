@@ -5,7 +5,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaOliveiraC&layout=compact&hide_border=true&title_color=42A7FF&text_color=418EE0&bg_color=0d1117" />
 </div>
  
-### 📌 Technologies and Tools
+### 📌 Languages and Tools
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Melissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Melissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
